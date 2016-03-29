@@ -6,7 +6,7 @@
 
 - [Uppgiftsbeskrivning på A-nivå:](a-level/)
 
-![ScreenShot A](../images/a-images/numberGuessingGameA.png)
+![ScreenShot A](images/a-images/numberGuessingGameA.png)
 Figur 1: Kravnivå A
 
 - [Uppgiftsbeskrivning på B-nivå:](b-level/)
