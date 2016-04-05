@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessingGameA", "1DV402.S2.L1A\NumberGuessingGameA.csproj", "{E33E81D1-5E5A-4869-AC02-EB580C04B2A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessingGameA", "NumberGuessingGameA\NumberGuessingGameA.csproj", "{E33E81D1-5E5A-4869-AC02-EB580C04B2A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessingGameA.TestProject", "1DV402.S2.L1A.TestProject\NumberGuessingGameA.TestProject.csproj", "{44440C27-F42C-47FA-93B2-956F0955E8F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessingGameA.TestProject", "NumberGuessingGameA.TestProject\NumberGuessingGameA.TestProject.csproj", "{44440C27-F42C-47FA-93B2-956F0955E8F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("1DV402.S2.L1A")]
-[assembly: AssemblyDescription("Inledande programmering med C# (1DV402)")]
+[assembly: AssemblyTitle("NumberGuessingGameA")]
+[assembly: AssemblyDescription("Objektorienterad programmering (1DV024)")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Linnéuniversitetet")]
-[assembly: AssemblyProduct("1DV402.S2.L1A")]
+[assembly: AssemblyProduct("NumberGuessingGameA")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

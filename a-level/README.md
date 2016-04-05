@@ -11,7 +11,23 @@ När en användare gjort en gissning ska resultatet av gissningen presenteras, d
 
 #####Det påbörjade projektet
 
-**...**
+Hämta hem filen projektet "NumberGuessingGameA" och öppna det i Visual Studio. Projektet innehåller bland annat de redan skrivna filerna ```Program.cs``` och ```Test.cs```. Denna källkod får på inget sätt får modifieras. Koden i filerna har till uppgift att testa att klassen ```SecretNumber```, som ska definieras, uppfyller grundläggande krav på uppgiften.
+
+![Predefined project A](../images/a-images/predefinedProjectA.png)
+Figur A.2.
+
+Om du använder Visual Studio, som kan hantera det bifogade testprojektet, så kan du nu köra de tester som finns i testprojektet ```NumberGuessingGameA.TestProject``` genom att välja menykommandot **Test ► Run ► All Tests**. Innan klassen ```SecretNumber``` har lagts till projektet, och delvis implementerats, kommer källkoden inte att kunna kompileras.
+
+![Error list A](../images/a-images/errorListA.png)
+Figur A.3. Felmeddelande då klassen SecretNumber lagts till men är ofullständigt implementerad.
+
+Då klassen ```SecretNumber``` är implementerad så långt att den klarar att kompileras anropar metoden ```Main()``` (i klassen ```Program```), den statistiska metoden ```Run()``` i klassen ```Test```. Metoden ```Run()``` i sin tur anropar ett flertal privata statiska metoder som testar att grundläggande krav uppfylls av klassen ```SecretNumber```. Uppfylls inte alla krav meddelas detta i form av ett eller flera felmeddelande.
+
+![Error message A](../images/a-images/errorMessageA.png)
+
+Figur A.4. Felmeddelanden då klassen SercetNumber inte är korrekt implementerad.
+
+Först då klassen ```SecretNumber``` klarar samtliga tester utan fel kan det egentliga programmet starta och användaren kan börja gissa på heltal i det slutna intervallet mellan 1 och 100 (se Figur A.1).
 			
 #####Klassen SecretNumber
 
