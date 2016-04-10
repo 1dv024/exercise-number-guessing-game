@@ -73,7 +73,7 @@ Figur A.9. Användaren misslyckas att gissa rätt hemligt tal på sju försök.
 
 Anropas metoden ```MakeGuess()``` fler än sju gånger efter varandra innan ett nytt hemligt tal har slumpats fram, genom ett anrop av metoden ```Initialize()```, ska metoden ```MakeGuess()``` kasta ett undantag av typen ```ApplicationException```.
 
-Om det vid anrop av metoden ```MakeGuess()``` skickas med ett argument som inte är i det slutna intervallet mellan 1 och 100 ska metoden, efter att ha undersökt parameterns värde, kasta ett undantag av typen ```ArgumentOutRangeException```.
+Om det vid anrop av metoden ```MakeGuess()``` skickas med ett argument som inte är i det slutna intervallet mellan 1 och 100 ska metoden, efter att ha undersökt parameterns värde, kasta ett undantag av typen ```ArgumentOutOfRangeException```.
 
 _Konstruktorn_<br/>
 Konstruktorn har till uppgift att se till att ett ```SecretNumber```-objekt är korrekt initierat. Det innebär att fälten har blivit tilldelade lämpliga värden, vilket enklast görs genom att låta konstruktorn anropa metoden ```Initialize()```.
