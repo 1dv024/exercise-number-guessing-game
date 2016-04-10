@@ -14,3 +14,7 @@ Figur 1: Kravnivå A
 ![ScreenShot B](images/b-images/numberGuessingGameB.png)
 Figur 2: Kravnivå B
 
+- [Uppgiftsbeskrivning på C-nivå:](c-level/)
+
+![ScreenShot C](images/c-images/numberGuessingGameC.png)
+Figur 2: Kravnivå C
