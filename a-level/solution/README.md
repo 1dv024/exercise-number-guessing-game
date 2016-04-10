@@ -1,6 +1,6 @@
 # Lösning
 
-Studera förslaget på lösning i källkodsfilen **SecretNumber.cs**!
+Studera förslaget på lösning i källkodsfilen **SecretNumber.cs**! När du hämtar hem denna fil ska den läggas i samma projektmapp som ```Program.cs```. Filen måste därefter logiskt kopplas till projektet ```NumberGuessingGameA```. Detta gör du genom att i vyn "Solution Explorer" högerklicka på projektnamnet och i dropdown-listan välja menykommandot **Add ► Existing Item...** samt i browser-dialogen leta upp den aktuella filen.
 
 ```c#
 using System;
