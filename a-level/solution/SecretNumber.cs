@@ -1,9 +1,4 @@
-# Lösning
-
-Studera förslaget på lösning i källkodsfilen **SecretNumber.cs**!
-
-```c#
-using System;
+﻿using System;
 
 namespace _NumberGuessingGameA
 {
@@ -60,6 +55,3 @@ namespace _NumberGuessingGameA
         }
     }
 }
-```
-
-
