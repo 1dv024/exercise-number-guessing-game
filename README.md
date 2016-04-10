@@ -11,6 +11,6 @@ Figur 1: Kravnivå A
 
 - [Uppgiftsbeskrivning på B-nivå:](b-level/)
 
-![ScreenShot B](XXX.png)
+![ScreenShot B](images/b-images/numberGuessingGameB.png)
 Figur 2: Kravnivå B
 
