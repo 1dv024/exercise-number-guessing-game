@@ -24,7 +24,6 @@ Figur A.3. Felmeddelande då klassen SecretNumber lagts till men är ofullständ
 Då klassen ```SecretNumber``` är implementerad så långt att den klarar att kompileras anropar metoden ```Main()``` (i klassen ```Program```), den statistiska metoden ```Run()``` i klassen ```Test```. Metoden ```Run()``` i sin tur anropar ett flertal privata statiska metoder som testar att grundläggande krav uppfylls av klassen ```SecretNumber```. Uppfylls inte alla krav meddelas detta i form av ett eller flera felmeddelande.
 
 ![Screenshot](../images/a-images/errorMessageA.png)
-
 Figur A.4. Felmeddelanden då klassen SercetNumber inte är korrekt implementerad.
 
 Först då klassen ```SecretNumber``` klarar samtliga tester utan fel kan det egentliga programmet starta och användaren kan börja gissa på heltal i det slutna intervallet mellan 1 och 100 (se Figur A.1).
