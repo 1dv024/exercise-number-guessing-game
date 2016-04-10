@@ -16,7 +16,7 @@ Hämta hem projektet **NumberGuessingGameA** och öppna det i Visual Studio. Pro
 ![Predefined project A](../images/a-images/predefinedProjectA.png)
 Figur A.2.
 
-Om du använder Visual Studio, som kan hantera det bifogade testprojektet, så kan du nu köra de tester som finns i testprojektet ```NumberGuessingGameA.TestProject``` genom att välja menykommandot **Test ► Run ► All Tests**. Innan klassen ```SecretNumber``` har lagts till projektet, och delvis implementerats, kommer källkoden dock inte att kunna kompileras.
+Använder du Visual Studio, som kan hantera det bifogade testprojektet, kan du köra de tester som finns i testprojektet ```NumberGuessingGameA.TestProject``` genom att välja menykommandot **Test ► Run ► All Tests**. Innan klassen ```SecretNumber``` har lagts till projektet, och delvis implementerats, kommer källkoden dock inte att kunna kompileras.
 
 ![Error list A](../images/a-images/errorListA.png)
 Figur A.3. Felmeddelande då klassen SecretNumber lagts till men är ofullständigt implementerad.
